@@ -24,20 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Test-Pandas.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test-Pandas.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Untitled0.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Untitled0.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="-1" />
             </state>
           </provider>
         </entry>
@@ -46,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/Untitled0-Copy0.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="-1" />
             </state>
           </provider>
         </entry>
@@ -61,14 +52,15 @@
       <list>
         <option value="$PROJECT_DIR$/TestAnalysis-Beam-AISC.ipynb" />
         <option value="$PROJECT_DIR$/Test-Footing.ipynb" />
+        <option value="$PROJECT_DIR$/Untitled0-Copy0.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1928" />
-    <option name="height" value="1178" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -290,13 +282,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1178" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2528978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25260416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35511363" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35486892" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -335,28 +327,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test-Footing-v4.ipynb">
+    <entry file="file://$PROJECT_DIR$/Untitled0.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="-1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test-Pandas.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-Footing.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-Pandas.ipynb">
+    <entry file="file://$PROJECT_DIR$/Untitled0-Copy0.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="-1" />
@@ -366,18 +344,11 @@
     <entry file="file://$PROJECT_DIR$/Test-Footing.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-Footing-v4.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
           <selected id="-1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test-Pandas.ipynb">
+    <entry file="file://$PROJECT_DIR$/Test-Footing.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
